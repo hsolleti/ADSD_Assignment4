@@ -1,0 +1,16 @@
+# Ignore Windows system files and personal directories
+AppData/
+NTUSER.DAT*
+OneDrive/
+Saved Games/
+.vscode/
+.conda/
+.condarc
+.ipynb_checkpoints/
+.ipython/
+.jupyter/
+venv/
+Downloads/
+Documents/
+Music/
+Videos/
